@@ -1,0 +1,6 @@
+https://stats.stackexchange.com/questions/5253/how-do-i-get-the-number-of-rows-of-a-data-frame-in-r
+https://stackoverflow.com/questions/3418128/how-to-convert-a-factor-to-an-integer-numeric-without-a-loss-of-information
+https://briatte.github.io/ggcorr/
+http://blog.yhat.com/posts/r-lm-summary.html
+https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf
+https://briatte.github.io/ggcorr/
